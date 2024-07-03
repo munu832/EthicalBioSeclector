@@ -95,6 +95,11 @@ function getRecommendation() {
     }
 
     document.getElementById('result').innerText = recommendation;
+
+    // Add the SLALAS guidelines link
+    const slalasLinkElement = document.getElementById('slalas-link');
+    slalasLinkElement.innerHTML = '<a href="https://slalas.lk/slalas-guidelines/" target="_blank" rel="noopener noreferrer">' +
+                                  'SLALAS Guidelines</a>';
 }
 
 document.addEventListener('DOMContentLoaded', () => {
