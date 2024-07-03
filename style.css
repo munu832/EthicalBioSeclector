@@ -22,6 +22,7 @@ body {
     padding: 20px;
     overflow-y: auto;
     background-color: #e6f3ff;
+    position: relative;
 }
 
 select {
@@ -65,5 +66,21 @@ button:hover {
 }
 
 .attribution a:hover {
+    text-decoration: underline;
+}
+
+.slalas-link {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 14px;
+}
+
+.slalas-link a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.slalas-link a:hover {
     text-decoration: underline;
 }
