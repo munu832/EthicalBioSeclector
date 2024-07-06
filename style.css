@@ -33,8 +33,14 @@ h2 {
 
 h3 {
     font-family: 'Helvetica Neue', Arial, sans-serif;
-    color: #a3c2d5;
+    color: #00400e;
     margin-bottom: 30px;
+}
+
+h4 {
+    font-family: 'Georgia', serif;
+    color: #ffd700;
+    margin-bottom: 20px;
 }
 
 select {
