@@ -50,7 +50,9 @@ We welcome contributions from the scientific community to help expand and improv
 
 ## License
 
-[Include license information]
+MIT License
+
+Copyright (c) 2024 Kavindu Munugoda
 
 ## Contact
 
@@ -61,7 +63,7 @@ Email: kmunugoda@gmail.com
 
 ## Links
 
-- [LinkedIn Profile](Your LinkedIn URL)
+- [LinkedIn Profile](https://www.linkedin.com/in/kavindu-munugoda-18436bb6/)
 - [Read Publication](URL to your review paper once published)
 
 ## DOI
