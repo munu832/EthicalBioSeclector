@@ -68,7 +68,7 @@ Email: kmunugoda@gmail.com
 
 ## DOI
 
-[Include DOI once available]
+https://doi.org/10.5281/zenodo.12738723
 
 ## Acknowledgements
 
